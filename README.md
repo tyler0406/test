@@ -1,2 +1,2 @@
-# skyblock
-A skyblock plugin
+# test
+A test
